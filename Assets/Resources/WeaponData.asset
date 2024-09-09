@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22a4956a20d240eeb28afaf091e6ff8f, type: 3}
+  m_Name: WeaponData
+  m_EditorClassIdentifier: 
+  AmmoRefillRate: 0.1
+  HPRecover: 3
+  WeaponPrefabs:
+  - {fileID: 3735212528652860275, guid: 59c86a0801c5bd34eb04fbae5cf06382, type: 3}
+  - {fileID: 3735212528652860275, guid: ae9cb2a6509a4c041a24d7a8de1dcb0f, type: 3}
+  - {fileID: 3735212528652860275, guid: 26ab8912485f67247940c63c912c0f05, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c26adb9be891ad478273a4de6caaeb8, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  _bgmPairs:
+  - type: 0
+    clip: {fileID: 0}
+  _clipPairs:
+  - type: 0
+    clip: {fileID: 8300000, guid: ec243d46092be694ab7b19c42abf8047, type: 3}
+  - type: 1
+    clip: {fileID: 8300000, guid: eafbb903b5bbe434d967c03a21f3beb4, type: 3}
+  - type: 2
+    clip: {fileID: 8300000, guid: 76cb1bf0cd0787649ac2a07a3330ae55, type: 3}
+  - type: 3
+    clip: {fileID: 8300000, guid: e534e0fad446b2b49bcf1af8eb7de1af, type: 3}
+  - type: 4
+    clip: {fileID: 8300000, guid: a64acf025ec4a484db101e640c9c82f1, type: 3}
+  - type: 5
+    clip: {fileID: 8300000, guid: d0f2ec74944d3734e966725fded20a17, type: 3}
+  - type: 6
+    clip: {fileID: 8300000, guid: 0a3b7a10a06b73842b98ad3357925816, type: 3}
+  - type: 7
+    clip: {fileID: 8300000, guid: a845264a554f57b439c2dc0dfc67ac00, type: 3}
